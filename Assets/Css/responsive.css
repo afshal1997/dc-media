@@ -1,0 +1,65 @@
+@media screen and (max-width: 991px) {
+    .mainBannerCard {
+        margin-top: 110px;
+        text-align: center;
+    }
+
+    .mainBannerCard h1 span::before {
+        padding: 27px 44px !important;
+        top: -7px !important;
+    }
+
+    .mainBannerCard h1 {
+        line-height: 1.5;
+    }
+
+    .card01,
+    .card02,
+    .card03 {
+        position: relative !important;
+        right: 0px !important;
+        top: 0px !important;
+    }
+
+    .flotingCardImg {
+        width: 100%;
+        max-width: 23px;
+    }
+
+    .card-blue,
+    .card-orange,
+    .card-pink,
+    .card-darkBlue {
+        margin-top: 20px !important;
+    }
+
+    .navbar-collapse {
+        background-color: rgba(0, 0, 0, 0.6) !important;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        transition: 1s;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .navbar a,
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff !important;
+    }
+
+    .circle,
+    .phoneHeader::before {
+        display: none !important;
+    }
+    .navbar-toggler.collapsed span {
+        color: #de5001;
+    }
+
+    .StudentReviews .content h6::before {
+        font-size: 1.5rem !important;
+        left: 0px !important;
+    }
+    .homeSection03 {
+        background-position: center center !important;
+    }
+}
