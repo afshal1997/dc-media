@@ -61,15 +61,17 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-md-12 form-group">
-                                            <input type="submit" value="Send Message" class="viewAll">
+                                            <button class="viewAll">Send Message </button>
                                         </div>
                                     </div>
                                 </form>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="contact-info h-100">
-                                <a href="https://www.google.com/maps" target="_blank"></a>
+                            <div class="contact-info">
+                                <a href="https://www.google.com/maps">
+                                    <img class="w-100" src="Assets/Images/contact-us/mapBg.webp" alt="Assets/Images/contact-us/mapBg.webp">
+                                </a>
                             </div>
                         </div>
                     </div>

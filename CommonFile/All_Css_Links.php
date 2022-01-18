@@ -5,4 +5,5 @@
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="stylesheet" href="Assets/FontAwesome/css/all.min.css">
 <link rel="stylesheet" href="Assets/Css/responsive.css">
-<link rel="stylesheet" href="Assets/Css/Custom_Css.css">
+<link rel="stylesheet" href="Assets/Css/<?= basename($_SERVER["SCRIPT_FILENAME"], '.php') ?>.css">
+<link rel="stylesheet" href="Assets/Css/Common_Css.css">

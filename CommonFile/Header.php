@@ -2,10 +2,14 @@
 <html lang="en">
 
 <head>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <?php include 'CommonFile/All_Css_Links.php'; ?>
+
   <title>DC Media</title>
+
 </head>
 
 <body>
@@ -44,7 +48,7 @@
               <div class="circle"></div>
               <div class="phoneHeader">
                 <h6 class="mb-0">Call Us Now</h6>
-                <a href="tel:+123 456 7890">+123 456 7890</a>
+                <a href="tel:2023675544">(202) 367 - 5544</a>
               </div>
             </li>
           </ul>

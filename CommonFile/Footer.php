@@ -42,22 +42,22 @@
                     <h6 class="mb-0">Quick Links</h6>
                     <ul class="FooterLinks mt-5 ps-0">
                         <li>
-                            <a href="javascript:void(0)">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)">About Us </a>
+                            <a href="about-us.php">About Us </a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)">Classes</a>
+                            <a href="classes.php">Classes</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="javascript:void(0)">Education</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="javascript:void(0)">Blogs</a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)">Contact Us</a>
+                            <a href="contact-us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>
