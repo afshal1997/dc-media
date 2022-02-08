@@ -42,6 +42,7 @@
     color: #393f44;
 }
 
+.homeSection04Card input,
 .mainBannerCard input {
     border-radius: 50px !important;
     font-family: -webkit-pictograph;
@@ -50,6 +51,7 @@
     z-index: 0;
 }
 
+.homeSection04Card span.input-group-text,
 .mainBannerCard span.input-group-text {
     background: #de5001;
     border-radius: 50% !important;
@@ -90,10 +92,16 @@
 .floatingCards {
     background: #fafbfd;
     height: 100%;
-    max-height: 70px;
+    max-height: 130px;
     -webkit-animation: mover 1s infinite alternate;
     animation: mover 1s infinite alternate;
     border-radius: 10px;
+    max-width: 360px;
+    padding: 10px 0;
+}
+
+.flotingCardImg {
+    max-width: 20px;
 }
 
 .floatingCards h5 {
@@ -116,8 +124,18 @@
 
 .card02 {
     position: absolute;
-    top: 0;
+    top: -140px;
     bottom: 0;
+    left: -100px;
+    margin: auto;
+    display: block;
+}
+
+.card04 {
+    position: absolute;
+    top: 130px;
+    bottom: 0;
+    left: -100px;
     margin: auto;
     display: block;
 }
@@ -196,7 +214,6 @@
     box-shadow: 0 0.5rem 1rem rgba(134, 160, 211, 0.5) !important;
     background-color: #86a0d3;
     border: 1px solid #fff;
-    margin-top: 230px;
     color: #3f5174;
     transition: 1s;
 }
@@ -205,7 +222,6 @@
     box-shadow: 0 0.5rem 1rem rgba(219, 128, 78, 0.5) !important;
     background: #db804e;
     border: 1px solid #fff;
-    margin-top: 160px;
     color: #6c4733;
     transition: 1s;
 }
@@ -214,7 +230,6 @@
     box-shadow: 0 0.5rem 1rem rgba(236, 209, 193, 0.5) !important;
     border: 1px solid #fff;
     background: #ecd1c1;
-    margin-top: 90px;
     transition: 1s;
     color: #736563;
 }
@@ -250,6 +265,8 @@
     border-radius: 5px;
     margin: 10px auto;
     transition: 1s;
+    min-height: 200px;
+    position: relative;
 }
 
 .ChooseDifferentCategories:hover {
@@ -267,12 +284,15 @@
 }
 
 .card.ChooseDifferentCategories a {
+    position: absolute;
     text-decoration: none;
     width: fit-content;
     font-size: 0.9rem;
     color: #322f43;
     transition: 1s;
     float: right;
+    right: 10px;
+    bottom: 10px;
 }
 
 .card.ChooseDifferentCategories a i {

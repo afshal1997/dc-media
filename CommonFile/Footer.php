@@ -24,15 +24,15 @@
                     <ul class="FooterLinks mt-5">
                         <li class="footerAddress">
                             <h6>Address</h6>
-                            <a href="javascript:void(0)">This is a dummy text, Your address comes here...</a>
+                            <a href="javascript:void(0)">1235 W St NE, 2nd floor </a>
                         </li>
                         <li class="callUs">
                             <h6>Call Us 24/7</h6>
-                            <a href="javascript:void(0)">123 456 7890</a>
+                            <a href="tel:2027447436">202-744-7436</a>
                         </li>
                         <li class="email">
                             <h6>Email</h6>
-                            <a href="javascript:void(0)">info@example.com</a>
+                            <a href="mailto:info@dcmediaacademy.com">info@dcmediaacademy.com</a>
                         </li>
                     </ul>
                 </div>
@@ -42,22 +42,19 @@
                     <h6 class="mb-0">Quick Links</h6>
                     <ul class="FooterLinks mt-5 ps-0">
                         <li>
-                            <a href="index.php">Home</a>
+                            <a href="javascript:void(0)">Check out our YouTube Videos</a>
                         </li>
                         <li>
-                            <a href="about-us.php">About Us </a>
+                            <a href="javascript:void(0)">About Us - Our Stories</a>
                         </li>
                         <li>
-                            <a href="classes.php">Classes</a>
+                            <a href="javascript:void(0)">Finance your course</a>
                         </li>
                         <!-- <li>
                             <a href="javascript:void(0)">Education</a>
                         </li> -->
                         <li>
-                            <a href="javascript:void(0)">Blogs</a>
-                        </li>
-                        <li>
-                            <a href="contact-us.php">Contact Us</a>
+                            <a href="javascript:void(0)">Learn about Washington Digital Media</a>
                         </li>
                     </ul>
                 </div>
@@ -67,7 +64,7 @@
                     <h6 class="mb-0">Newsletters</h6>
                     <div class="Newsletter">
                         <h5>Subscribe For Newsletter</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                        <p>Sign Up for our newsletter to learn about events, classes and more! </p>
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Email Address" aria-label="Email Address" aria-describedby="basic-addon2">
                             <span class="input-group-text" id="basic-addon2"><i class="fas fa-long-arrow-alt-right"></i></span>

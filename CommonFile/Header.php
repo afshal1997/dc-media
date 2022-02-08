@@ -31,16 +31,19 @@
               <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="acting-academy.php">Acting Academy</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="javascript:void(0)">FIlmmaker Academy</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="javascript:void(0)">Digital Marketing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="javascript:void(0)">Crypto & NFTs</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="about-us.php">About Us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="classes.php">Classes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="javascript:void(0)">Resources</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
           </ul>
           <ul class="navbar-nav m-auto mb-2 mb-lg-0">
@@ -48,7 +51,7 @@
               <div class="circle"></div>
               <div class="phoneHeader">
                 <h6 class="mb-0">Call Us Now</h6>
-                <a href="tel:2023675544">(202) 367 - 5544</a>
+                <a href="tel:2027447436">202-744-7436</a>
               </div>
             </li>
           </ul>

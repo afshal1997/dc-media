@@ -1,5 +1,5 @@
 .aboutUsSection01 {
-    background-image: url("../Images/aboutUS/aboutUsMainBanner.jpg");
+    background-image: url("../Images/actingAcademy/actingAcademyMainBanner.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,4 +165,8 @@
 
 .aboutUsSection02{
     padding: 80px 20px;
+}
+
+.dcmaUl ul li {
+    margin-bottom: 10px;
 }

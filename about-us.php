@@ -16,6 +16,65 @@
             </div>
         </div>
     </section>
+    
+    <section class="aboutUsSection02" id="aboutUsSection02">
+        <div class="container">
+            <div class="homeSection04Card text-center" data-aos="fade-right">
+                <h2 class="mb-0"><span>About Us</span></h2>
+                <p class="text-muted">DC Media Academy</p>
+            </div>
+            <div class="row mt-3">
+                <div class="col-lg-7">
+                    <p>
+                        The idea for DC Media Academy began at Washington Digital Media LLC, where founder and CEO Ricardo Villalba knew he could go beyond 
+                        providing a few internships for talented young people every year. As a former youth caseworker, Ricardo is aware of the challenges 
+                        faced by the youth from DC’s underserved areas. Ricardo was inspired by the young storytellers that could entertain, inform, 
+                        and connect with audiences if given the proper training, support, and opportunities. The result is DC Media Academy.
+                    </p>
+                    <p>
+                        DC Media Academy was founded in 2021 by filmmaker/producer Ricardo O. Villalba. Since he was a child, Ricardo dreamed of making 
+                        films and eventually moved to New York City from DC in 1999 to attend the New York Film Academy’s intensive film program.
+                    </p>
+                    <p>
+                        After graduating from New York Film Academy, Ricardo - like many people of color and immigrants - faced difficulties in finding 
+                        work in the film industry. Ricardo returned to DC in 2009 and has been producing, acting, and making films in the DMV ever since.
+                    </p>
+                    <p>
+                        He founded Washington Digital Media in 2014 and later moved its offices onto the former BET grounds in September of 2021. 
+                        With access to the biggest black-owned sound stage on the East Coast, Ricardo decided to start a filmmaking program as 
+                        well as a hands-on course in acting for film with the simple goal of creating a thriving film industry in Washington DC.
+                    </p>
+                    <p>
+                        Ricardo has assembled a group of talented filmmakers, producers, directors, musicians, writers, and youth advocates who recognize 
+                        Washington, DC as a city with a unique history and identity. They are committed to helping the city’s residents tell those stories.
+                    </p>
+                </div>
+                <div class="col-lg-5 m-auto">
+                    <img class="w-100 shadow rounded" src="Assets/Images/aboutUS/aboutDcMediaImg.webp" alt="Assets/Images/aboutUS/aboutDcMediaImg.webp">
+                </div>
+                <div class="col-lg-6 m-auto">
+                    <h4>Our Mission</h4>
+                    <p>
+                        DC Media Academy’s mission is to empower the District of Columbia’s young creatives to tell their stories through digital media 
+                        and obtain skills that sustain them throughout their artistic journey.
+                    </p>
+                </div>
+                <div class="col-lg-6">
+                    <img class="w-100 shadow rounded" src="Assets/Images/aboutUS/OurMission.jpg" alt="Assets/Images/aboutUS/OurMission.jpg">
+                </div>
+                <div class="col-lg-6">
+                    <img class="w-100 shadow rounded" src="Assets/Images/aboutUS/OurVision.jpg" alt="Assets/Images/aboutUS/OurVision.jpg">
+                </div>
+                <div class="col-lg-6 m-auto">
+                    <h4>Our Vision</h4>
+                    <p>
+                        To grow the city’s ecosystem of skilled film industry professionals and made the District of Columbia a major film 
+                        destination for the east coast.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="homeSection06" id="homeSection06">
         <div class="container">
