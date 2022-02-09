@@ -230,7 +230,7 @@
                             </div>
                         </div>
                     </div>
-                    <a class="viewAll" href="pricing.php">View All</a>
+                    <!-- <a class="viewAll" href="pricing.php">View All</a> -->
                 </div>
             </div>
         </div>
@@ -258,7 +258,7 @@
                                 Filmmaking is an art. Your camera is a tool. Learn the basics of framing, how to capture amazing shots and how to work with
                                 natural lighting, shutter speeds, exposure, lenses, and more!
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -274,7 +274,7 @@
                             <p>
                                 Learn everything you need to make your videos stand out using only phone apps and basic editing software.
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                                 This 4-hour workshop will teach you to market your creative business via social media using your smartphone and a few apps to help you
                                 create great content!
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -308,7 +308,7 @@
                                 This 4-hour workshop will help you understand how to use Google Suite to manage day-to-day operations and make your creative business
                                 more productive
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -325,7 +325,7 @@
                                 This 3-hour course will help you understand cryptocurrency, open a Coinbase account or other cryptocurrency applications,
                                 and have a better understanding of what cryptocurrency is offering and how it is shaping our financial future.
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -341,14 +341,14 @@
                             <p>
                                 Our acting course will prepare you for casting calls, auditions and how to become a working paid actor.
                             </p>
-                            <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
+                            <a class="homeSection04CardBtn" href="pricing.php">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 mt-5 m-auto">
-                <a class="viewAll" href="javascript:void(0)">View All</a>
-            </div>
+            <!-- <div class="col-lg-5 mt-5 m-auto">
+                <a class="viewAll" href="pricing.php">View All</a>
+            </div> -->
         </div>
     </section>
 

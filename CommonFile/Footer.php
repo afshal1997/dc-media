@@ -4,7 +4,7 @@
             <div class="col-lg-3">
                 <div class="footerSocialMeadi">
                     <h6 class="mb-0">About</h6>
-                    <p class="mt-5 mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore .</p>
+                    <p class="mt-5 mb-4">With access to the biggest black-owned sound stage on the East Coast, Ricardo decided to start a filmmaking program as well as a hands-on course in acting for film with the simple goal of creating a thriving film industry in Washington DC.</p>
                     <ul class="mediaLinks">
                         <li>
                             <i class="fab fa-facebook-f"></i>
@@ -45,7 +45,7 @@
                             <a href="javascript:void(0)">Check out our YouTube Videos</a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)">About Us - Our Stories</a>
+                            <a href="about-us.php">About Us - Our Stories</a>
                         </li>
                         <li>
                             <a href="javascript:void(0)">Finance your course</a>

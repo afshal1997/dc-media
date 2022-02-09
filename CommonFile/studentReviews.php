@@ -58,9 +58,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 mt-4 m-auto">
+            <!-- <div class="col-lg-5 mt-4 m-auto">
                 <a class="viewAll" href="javascript:void(0)">View All</a>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
