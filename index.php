@@ -208,7 +208,7 @@
                                     </div>
                                     <p>Cryptocurrency is redefining the business of art.
                                         Learn what you need to know to stay ahead of the curve and make better decisions to secure your financial future! </p>
-                                    <a href="javascript:void(0)">Join a class today <i class="fas fa-chevron-right"></i></a>
+                                    <a href="pricing.php">Join a class today <i class="fas fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>

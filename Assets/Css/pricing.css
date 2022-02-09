@@ -50,6 +50,15 @@
 .bg-orange {
   background-color: #de5001;
 }
+button.bg-orange {
+  border: 1px solid #de5001 !important;
+  transition: 1s;
+}
+.bg-orange:hover {
+  border: 1px solid #de5001 !important;
+  background-color: #fff !important;
+  color: #de5001 !important;
+}
 .our-pricing ul li::before {
   content: "\f00c";
   font-family: "Font Awesome 5 Free";
@@ -222,4 +231,39 @@
 .homeSection04Card .card {
   height: 400px !important;
   overflow-y: scroll !important;
+}
+#get-started .modal-content {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  border: 0 !important;
+  height: 20vh !important;
+}
+#get-started .modal-header {
+  border-bottom: 0 !important;
+}
+#get-started .btn-close {
+  color: #fff !important;
+  box-shadow: none !important;
+  filter: invert(1);
+}
+.btn-sign-in,
+.btn-sign-up {
+  border: 0;
+  box-shadow: none !important;
+  width: 100%;
+  transition: 1s;
+  border: 1px solid transparent !important;
+}
+.btn-sign-in {
+  background-color: #de5001 !important;
+  color: #fff;
+  border: 1px solid #de5001;
+}
+.btn-sign-in:hover {
+  border: 1px solid #de5001 !important;
+  background-color: transparent !important;
+  color: #fff !important;
+}
+.btn-sign-up:hover {
+  background-color: #de5001 !important ;
+  color: #fff;
 }

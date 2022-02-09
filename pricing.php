@@ -1,4 +1,6 @@
 <?php include 'CommonFile/Header.php'; ?>
+<?php include 'CommonFile/modal.php'; ?>
+
 <section class="aboutUsSection01" id="aboutUsSection01">
    <div class="container">
       <div class="col-lg-6 text-center m-auto pt-5 mt-5 mb-5">
@@ -69,6 +71,7 @@
                   </li>
                </ul>
             </div>
+            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Order Now 1,644 $</div>
          </div>
          <div class="col-lg-3 m-auto mt-0">
             <div class="card shadow">
@@ -102,6 +105,8 @@
 
                </ul>
             </div>
+            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Order Now 1,939 $</div>
+
          </div>
          <div class="col-lg-2"></div>
       </div>
