@@ -175,7 +175,7 @@
                                         </div>
                                     </div>
                                     <p>Learn everything you need to build a portfolio, audition successfully and win jobs to advance your acting career.</p>
-                                    <a href="javascript:void(0)">Join a class today <i class="fas fa-chevron-right"></i></a>
+                                    <a href="pricing.php">Join a class today <i class="fas fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
                                         </div>
                                     </div>
                                     <p>Learn more about our pre-production, production, and post-production mini-courses. </p>
-                                    <a href="javascript:void(0)">Join a class today <i class="fas fa-chevron-right"></i></a>
+                                    <a href="pricing.php">Join a class today <i class="fas fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -206,8 +206,8 @@
                                             <h6 class="mb-0">Cryptocurrency Class</h6>
                                         </div>
                                     </div>
-                                    <p>Cryptocurrency is redefining the business of art. 
-                                    Learn what you need to know to stay ahead of the curve and make better decisions to secure your financial future! </p>
+                                    <p>Cryptocurrency is redefining the business of art.
+                                        Learn what you need to know to stay ahead of the curve and make better decisions to secure your financial future! </p>
                                     <a href="javascript:void(0)">Join a class today <i class="fas fa-chevron-right"></i></a>
                                 </div>
                             </div>
@@ -223,14 +223,14 @@
                                             <h6 class="mb-0">Mobile Digital Marketing Class</h6>
                                         </div>
                                     </div>
-                                    <p>Our digital marketing courses are designed for small businesses owners who want to take control of their online marketing, branding, 
-                                    and social media presence! </p>
-                                    <a href="javascript:void(0)">Join a class today  <i class="fas fa-chevron-right"></i></a>
+                                    <p>Our digital marketing courses are designed for small businesses owners who want to take control of their online marketing, branding,
+                                        and social media presence! </p>
+                                    <a href="pricing.php">Join a class today <i class="fas fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a class="viewAll" href="javascript:void(0)">View All</a>
+                    <a class="viewAll" href="pricing.php">View All</a>
                 </div>
             </div>
         </div>
@@ -255,8 +255,8 @@
                                 </div>
                             </div>
                             <p>
-                                Filmmaking is an art. Your camera is a tool. Learn the basics of framing, how to capture amazing shots and how to work with 
-                                natural lighting, shutter speeds, exposure, lenses, and more! 
+                                Filmmaking is an art. Your camera is a tool. Learn the basics of framing, how to capture amazing shots and how to work with
+                                natural lighting, shutter speeds, exposure, lenses, and more!
                             </p>
                             <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
@@ -288,8 +288,8 @@
                                 </div>
                             </div>
                             <p>
-                                This 4-hour workshop will teach you to market your creative business via social media using your smartphone and a few apps to help you 
-                                create great content! 
+                                This 4-hour workshop will teach you to market your creative business via social media using your smartphone and a few apps to help you
+                                create great content!
                             </p>
                             <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
@@ -305,8 +305,8 @@
                                 </div>
                             </div>
                             <p>
-                                This 4-hour workshop will help you understand how to use Google Suite to manage day-to-day operations and make your creative business 
-                                more productive 
+                                This 4-hour workshop will help you understand how to use Google Suite to manage day-to-day operations and make your creative business
+                                more productive
                             </p>
                             <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
@@ -322,8 +322,8 @@
                                 </div>
                             </div>
                             <p>
-                                This 3-hour course will help you understand cryptocurrency, open a Coinbase account or other cryptocurrency applications, 
-                                and have a better understanding of what cryptocurrency is offering and how it is shaping our financial future. 
+                                This 3-hour course will help you understand cryptocurrency, open a Coinbase account or other cryptocurrency applications,
+                                and have a better understanding of what cryptocurrency is offering and how it is shaping our financial future.
                             </p>
                             <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>
@@ -339,7 +339,7 @@
                                 </div>
                             </div>
                             <p>
-                                Our acting course will prepare you for casting calls, auditions and how to become a working paid actor. 
+                                Our acting course will prepare you for casting calls, auditions and how to become a working paid actor.
                             </p>
                             <a class="homeSection04CardBtn" href="javascript:void(0)">Join Now <i class="fas fa-chevron-right"></i></a>
                         </div>

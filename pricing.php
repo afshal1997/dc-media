@@ -6,7 +6,7 @@
             <h1>Pricing</h1>
             <nav class="breadcrumbNav" aria-label="breadcrumb">
                <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a class="text-dark" href="index.php">Pricing</a></li>
+                  <li class="breadcrumb-item"><a class="text-dark" href="index.php">Home</a></li>
                   <li class="breadcrumb-item activeLink">Pricing</li>
                </ol>
             </nav>
