@@ -1,3 +1,39 @@
+@media screen and (max-width: 1366px){
+    .floatingCards{
+        max-width: 290px !important;
+        max-height: 150px !important;
+    }
+    
+    .homeSection01{
+        padding-top: 120px !important;
+    }
+    
+    .card01{
+        right: 0 !important;
+        top: 0px !important;
+    }
+    
+    .card03{
+        right: 0px !important;
+    }
+    
+    .card04{
+        top: 190px !important;
+    }
+    
+}
+
+@media screen and (max-width: 1024px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 0.6rem !important;
+    }
+    
+    .floatingCards {
+        max-width: 200px !important;
+        max-height: 190px !important;
+    }
+}
+
 @media screen and (max-width: 991px) {
     .mainBannerCard {
         margin-top: 110px;
@@ -15,10 +51,15 @@
 
     .card01,
     .card02,
-    .card03 {
+    .card03,
+    .card04{
         position: relative !important;
         right: 0px !important;
         top: 0px !important;
+        left: 0 !important;
+        margin-bottom: 10px !important;
+        max-height: 100% !important;
+        max-width: 100% !important;
     }
 
     .flotingCardImg {
@@ -61,5 +102,13 @@
     }
     .homeSection03 {
         background-position: center center !important;
+    }
+    
+    .active::before{
+        background-position: left !important;
+        background-size: 30% 100% !important;
+        left: -4px;
+        right: 0 !important;
+        top: 0 !important;
     }
 }
