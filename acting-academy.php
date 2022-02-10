@@ -38,7 +38,7 @@
                         Join our MeetUp group to see times and dates for classes.
                     </p>
                     <div class="text-start">
-                        <a class="viewAll m-0" href="javascript:void(0)">BUY NOW</a>
+                        <a class="viewAll m-0" href="javascript:void(0)">Register</a>
                     </div>
 
                 </div>
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 mt-4 m-auto">
-                    <a class="viewAll" href="javascript:void(0)">BUY NOW</a>
+                    <a class="viewAll" href="javascript:void(0)">Register</a>
                 </div>
             </div>
 
