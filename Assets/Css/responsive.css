@@ -45,7 +45,12 @@
     margin-top: 110px;
     text-align: center;
   }
-
+  .bonus-pill {
+    display: block !important;
+  }
+  .membership::before {
+    display: none !important;
+  }
   .mainBannerCard h1 span::before {
     padding: 27px 44px !important;
     top: -7px !important;

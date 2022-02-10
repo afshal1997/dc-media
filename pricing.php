@@ -22,23 +22,15 @@
          <h2 class=""><span>Pricing</span></h2>
       </div>
       <div class="row mt-3 our-pricing">
-         <div class="col-lg-4 mb-5 m-auto mt-0">
-            <div class="card shadow">
+         <div class="col-lg-4 mb-5 m-auto mt-0 membership">
+            <div class="card  shadow">
                <div class="card-header">
-                  <div class="row">
-                     <div class="col-lg-6 m-auto">
-                        <p class="text-orange mb-0">
-                           Membership
-                        </p>
-                     </div>
-                     <div class="col-lg-6">
-                        <span class=" bg-orange text-light p-1 bonus-pill rounded-pill">
-                           50% of for signup now
-                        </span>
-                     </div>
-                  </div>
-
-
+                  <p class="text-orange mb-0">
+                     Membership
+                     <span class=" bg-orange text-light rounded-pill text-center p-2  bonus-pill float-end d-none">
+                        50% of for signup now
+                     </span>
+                  </p>
                </div>
                <ul class="list-group list-group-flush">
                   <li>
