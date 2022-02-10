@@ -5,11 +5,11 @@
    <div class="container">
       <div class="col-lg-6 text-center m-auto pt-5 mt-5 mb-5">
          <div class="mainBannerCard aos-init aos-animate" data-aos="fade-up-right">
-            <h1>Pricing</h1>
+            <h1>Membership Pricing</h1>
             <nav class="breadcrumbNav" aria-label="breadcrumb">
                <ol class="breadcrumb">
                   <li class="breadcrumb-item"><a class="text-dark" href="index.php">Home</a></li>
-                  <li class="breadcrumb-item activeLink">Pricing</li>
+                  <li class="breadcrumb-item activeLink">Membership Pricing</li>
                </ol>
             </nav>
          </div>
@@ -22,10 +22,24 @@
          <h2 class=""><span>Pricing</span></h2>
       </div>
       <div class="row mt-3 our-pricing">
-         <div class="col-lg-2"></div>
-         <div class="col-lg-3 mb-5 m-auto mt-0">
+         <div class="col-lg-4 mb-5 m-auto mt-0">
             <div class="card shadow">
-               <p class="card-header text-orange">Membership Benefits</p>
+               <div class="card-header">
+                  <div class="row">
+                     <div class="col-lg-6 m-auto">
+                        <p class="text-orange mb-0">
+                           Membership
+                        </p>
+                     </div>
+                     <div class="col-lg-6">
+                        <span class=" bg-orange text-light p-1 bonus-pill rounded-pill">
+                           50% of for signup now
+                        </span>
+                     </div>
+                  </div>
+
+
+               </div>
                <ul class="list-group list-group-flush">
                   <li>
                      Space Rental for Photoshoot, Video Production, and workshops or training
@@ -44,13 +58,21 @@
                   <li>
                      $500 (logo, color scheme, online connection, etc)
                   </li>
-                  <li>
-                     Sound Recording Only:
-                  </li>
+                  <div class="ps-4 bg-orange p-1 text-light">
+
+                     <p class="mb-0 font-size-12">
+                        <strong>Sound Recording Only</strong>
+                     </p>
+                  </div>
                   <li>$99! hour or less</li>
                   <li>$150 2 hours</li>
                   <li>$200 3 hours</li>
-                  <li> Video recording and podcast or live stream; </li>
+                  <div class="ps-4 bg-orange p-1 text-light">
+
+                     <p class="mb-0 font-size-12">
+                        <strong>Video recording and podcast or live stream</strong>
+                     </p>
+                  </div>
                   <li>$150 for 1 hour </li>
                   <li>$250 2 hours</li>
                   <li>$300 3 Hours</li>
@@ -59,10 +81,11 @@
                   <li>
                      Our common area is also open for meetings and a small gathering at no cost
                   </li>
-                  <li>
-                     Coming soon:
-
-                  </li>
+                  <div class="ps-4 bg-orange p-1 text-light">
+                     <p class="mb-0 font-size-12">
+                        <strong>Coming soon</strong>
+                     </p>
+                  </div>
                   <li>
                      Equipment Rental while working at the studio only available to Members
                   </li>
@@ -71,9 +94,11 @@
                   </li>
                </ul>
             </div>
-            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Order Now 1,644 $</div>
+            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Register / Signup</div>
          </div>
-         <div class="col-lg-3 m-auto mt-0">
+      </div>
+      <div class="row mt-3 our-pricing">
+         <div class="col-lg-4 m-auto mt-0">
             <div class="card shadow">
                <p class="card-header text-orange">Non Member</p>
                <ul class="list-group list-group-flush">
@@ -96,19 +121,21 @@
                   <li>$199! hour or less</li>
                   <li>$250 2 hours </li>
                   <li>$400 3 hours </li>
-                  <li>
-                     Video recording and podcast or live stream;
-                  </li>
+                  <div class="ps-4 bg-orange p-1 text-light">
+
+                     <p class="mb-0 font-size-12">
+                        <strong>Video recording and podcast or live stream</strong>
+                     </p>
+                  </div>
                   <li>$250 for 1 hour </li>
                   <li>$350 2 hours</li>
                   <li>$400 3 Hours</li>
 
                </ul>
             </div>
-            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Order Now 1,939 $</div>
+            <div class="button btn btn-primary bg-orange w-100 shadow-lg border-0">Register Free</div>
 
          </div>
-         <div class="col-lg-2"></div>
       </div>
    </div>
 </section>

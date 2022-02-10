@@ -267,3 +267,6 @@ button.bg-orange {
   background-color: #de5001 !important ;
   color: #fff;
 }
+.bonus-pill {
+  font-size: 12px;
+}
